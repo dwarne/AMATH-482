@@ -1,7 +1,7 @@
 # AMATH-482
 This repository contains the projects that I worked on for my Computational Methods for Data Analysis class. 
 
-The bulk of this course was focused around extracting significant information from noisy/cluttered datasets.
+In brief, this course was focused around extracting significant information from datasets.
 
 This information could be in the form of a graph/picture/image that gives insight into patterns within the data, etc. 
 
