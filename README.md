@@ -1,5 +1,5 @@
 # AMATH-482
-This repository contains the projects that I worked on for my Computational Methods for Data Analysis class. 
+This repository contains my best work from my Computational Methods for Data Analysis class. 
 
 In brief, this course was focused around extracting significant information from datasets.
 
